@@ -2,7 +2,7 @@
  * CST8234 - C Programming
  * Lab 1 - Problem 1
  * Student Name: Emmanuel Fofeyin
- * Date: 23/9/2026
+ * Date: 22/9/2026
  */
 
 #include <stdio.h>
