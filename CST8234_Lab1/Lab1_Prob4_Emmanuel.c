@@ -45,7 +45,8 @@ int main(void)
     }
 
     printf("\n");
-
+    
+    /* Return 0 to indicate successful program execution */
     return 0;
 }
 
