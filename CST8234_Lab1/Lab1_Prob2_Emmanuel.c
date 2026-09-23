@@ -49,5 +49,6 @@ int main(void)
         printf("Category: Obese\n");
     }
 
+    /* Return 0 to indicate successful program execution */
     return 0;
 }
