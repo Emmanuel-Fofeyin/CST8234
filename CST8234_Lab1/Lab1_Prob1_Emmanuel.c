@@ -50,6 +50,7 @@ int main(void)
             break;
 
         case DIV:
+            /* Check for division by zero before dividing */
             if (secondNum == 0)
             {
                 printf("Error: Division by zero is not allowed!\n");
@@ -62,6 +63,7 @@ int main(void)
             break;
 
         default:
+            /* Display an error for an invalid operation */
             printf("Error: Invalid operation selected!\n");
     }
 
