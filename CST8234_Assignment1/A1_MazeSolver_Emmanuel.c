@@ -3,7 +3,7 @@
     Name: Emmanuel Fofeyin
     Course: CST8234 - C Programming
     Assignment: Assignment 1 - Maze Solver
-    Date: November 2, 2026
+    Date: Oct 29th, 2026
     Description: Solves a maze using dynamic memory allocation
                  and recursive backtracking.
 */
